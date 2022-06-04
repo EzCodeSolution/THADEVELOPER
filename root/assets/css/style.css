@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Mina:wght@400;700&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Mina', sans-serif;
+}
+
+.yellow {
+    background: "#E7B853" ;
+  }
+  .green-dark {
+    background-color: "#5BA291";
+  }
+  .green-soft {
+    background-color: "#CBD6CC" ;
+  }
+  .dark {
+      background-color: "#000000";
+}
+
+.yellow-text {
+    color:"#E7B853"  ;
+  }
+  .green-dark-text {
+    color: "#5BA291";
+  }
+  .green-soft-text {
+    color: "#CBD6CC";
+  }
+  .dark-text {
+      color:  "#000000";
+}
